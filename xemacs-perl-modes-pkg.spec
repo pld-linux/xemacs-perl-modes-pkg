@@ -9,16 +9,16 @@ Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	75651f6590cef4d11217f5ea0edf41a4
 URL:		http://www.xemacs.org/
-BuildArch:	noarch
 Requires:	xemacs
 Requires:	xemacs-base-pkg
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-XEmacs modes for Perl
+XEmacs modes for Perl.
 
 %description -l pl
-XEmacsowe tryby do Perla
+XEmacsowe tryby do Perla.
 
 %prep
 %setup -q -c
