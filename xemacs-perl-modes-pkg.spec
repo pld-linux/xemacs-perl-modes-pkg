@@ -1,6 +1,6 @@
 %define 	srcname	perl-modes
 Summary:	XEmacs modes for Perl
-Summary(pl.UTF-8):   XEmacsowe tryby do jezyka Perl
+Summary(pl.UTF-8):	XEmacsowe tryby do jezyka Perl
 Name:		xemacs-%{srcname}-pkg
 Version:	1.06
 Release:	0.1
