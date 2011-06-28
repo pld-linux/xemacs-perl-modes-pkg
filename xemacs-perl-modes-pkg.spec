@@ -2,12 +2,12 @@
 Summary:	XEmacs modes for Perl
 Summary(pl.UTF-8):	XEmacsowe tryby do jezyka Perl
 Name:		xemacs-%{srcname}-pkg
-Version:	1.06
+Version:	1.14
 Release:	0.1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	75651f6590cef4d11217f5ea0edf41a4
+# Source0-md5:	531459fe71d28667ca341f25a0d6e750
 URL:		http://www.xemacs.org/
 Requires:	xemacs
 Requires:	xemacs-base-pkg
